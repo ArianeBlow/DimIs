@@ -1,5 +1,5 @@
-# Dom-Fail
-Dom-Fail pentest training write up.
+# DomIs
+DomIs pentest training write up.
 
 
 ```
