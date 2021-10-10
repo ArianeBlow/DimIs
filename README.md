@@ -13,7 +13,7 @@ An account is leaked in the Web pag :
 ![alt text](https://user-images.githubusercontent.com/61753065/136694322-d5e5b980-d1f9-4371-8075-6f620ee16a82.png)
 
 ```
-Find the jason.harly account password by using hydra on SMB:
+Find the account password by using hydra on SMB:
 ```
 ![alt text](https://user-images.githubusercontent.com/61753065/136694370-5e204c9b-ac3c-4d78-a930-db70893608b0.png)
 
