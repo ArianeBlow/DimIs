@@ -67,12 +67,12 @@ You can now, read the script in clear text and the « pil_flag » !
 ![alt text](https://user-images.githubusercontent.com/61753065/136694506-d5a322bd-3b38-42a5-ad2d-9b04ecc42065.png)
 
 ```
-Lets get a shell by using wmiexec and take the admin flag :
+Lets get a shell by using wmiexec :
 ```
 ![alt text](https://user-images.githubusercontent.com/61753065/136694523-d559af81-e85d-4f13-a2b2-55bcb7792d2a.png)
 
 ```
-And get the admin_flag in the « administrateur » desktop folder :
+Get the admin_flag in the « administrateur » desktop folder :
 ```
 ![alt text](https://user-images.githubusercontent.com/61753065/136694558-82d73462-64de-4820-9011-4af426e9aea6.png)
 
